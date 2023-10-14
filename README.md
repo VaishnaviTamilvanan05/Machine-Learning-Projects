@@ -3,6 +3,10 @@
 ## Description:
 The E-Commerce Recommendation System with Sentiment Analysis is an innovative project that leverages machine learning techniques to enhance the user experience on an e-commerce platform. This system employs a sophisticated approach to provide personalized product recommendations to users based on their ratings, preferences, and real-time sentiment analysis of product perceptions.
 
+## Dataset
+https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/version/2
+![image](https://github.com/VaishnaviDataScientist/-Product-recommendation-in-E-commerce-/assets/146096000/2e4b4e4c-f189-48f7-818b-d41660149ceb)
+
 ## Key Features:
 1. Data Analysis: This project involves an in-depth analysis of user data, which includes factors such as user ratings and reviews. The analysis aims to identify patterns and trends in user behavior to optimize product recommendations.
 
