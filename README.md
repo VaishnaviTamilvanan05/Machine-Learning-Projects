@@ -1,1 +1,3 @@
-# -Product-recommendation-in-E-commerce-
+# -Product-recommendation-in-E-commerce
+
+This project repository hosts an e-commerce recommendation system powered by machine learning, designed to enhance the user experience by providing personalized product suggestions based on user ratings. The project encompasses data analysis, NPS (Net Promoter Score) calculations, and the implementation of text normalization techniques, such as stemming and lemmatization. Furthermore, the system leverages the Twitter API for real-time sentiment analysis, offering valuable insights into product perception and recommending related items through the utilization of a Random Forest classifier.
