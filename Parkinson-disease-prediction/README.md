@@ -1,6 +1,6 @@
-# Academic-Machine-learning-Project 
+# Capstone-Machine-learning-Project 
+# Feature-Extraction-of-Parkinson-disease-using-hybrid-machine-learning
 
-## Feature Extraction Of Parkinson Disease
 
 This project aims to boost the precision of early-stage Parkinson's disease prediction by optimizing dataset splitting, employing various classifiers, and identifying crucial features through feature extraction and model comparison.
 
